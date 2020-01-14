@@ -1,0 +1,11 @@
+/bin/*
+/obj/*
+/.vs/*
+/.vs/SolutionFor/v15/.suo~168a1b5... the
+/.vs/SolutionFor/v15/Server/sqlite3/db.lock
+/.vs/SolutionFor/v15/Server/sqlite3/storage.ide
+/.vs/SolutionFor/v15/Server/sqlite3/storage.ide-shm~168a1b5... the
+/.vs/SolutionFor/v15/Server/sqlite3/storage.ide-wal
+/SolutionFor/bin
+/SolutionFor/obj
+/.vs
